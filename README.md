@@ -3,10 +3,13 @@
 ### _Overview_
 
 <img align='left' src='https://github.com/gitrecced/gitreccced/blob/master/app/src/main/res/drawable-v24/fist.png' 
-     width='125' 
+     width='150' 
      alt='GetRecced Icon'>
 
 **_GetRecced_** (known as **gitrecced** on github) is an Android media recommendation application that connects its users to more movies, TV shows, and books based on like users' preferences. Developed over the course of 5 weeks as the Facebook University project of Tiffany ([tyu91](https://github.com/tyu91)), Tomoka ([TK000](https://github.com/TK000)), and X ([Morefiendz](https://github.com/Morefiendz)), we brought our unique visions together in order to design a sleek Android application that unites people through a shared passion for media. 
+
+
+**_UPDATE:_** To see more from GetRecced, check out [Tiffany's continuation](https://github.com/tyu91/gitreccced) of GetRecced post-FBU for new and updated features!
 
 <br />
 
